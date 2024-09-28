@@ -1,0 +1,10 @@
+name: cs326
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - scikit-learn
+  - pytorch
+  - conda-forge::yfinance
+  - ipykernel
